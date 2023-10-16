@@ -1,0 +1,24 @@
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\bin\Debug\net6.0\PathsPlusPlus.dll
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\obj\Debug\net6.0\BTD7Sniper.csproj.AssemblyReference.cache
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\obj\Debug\net6.0\BTD7Sniper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\obj\Debug\net6.0\BTD7Sniper.AssemblyInfoInputs.cache
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\obj\Debug\net6.0\BTD7Sniper.AssemblyInfo.cs
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\obj\Debug\net6.0\BTD7Sniper.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\obj\Debug\net6.0\BTD7Sniper.csproj.CopyComplete
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\bin\Debug\net6.0\BTD7Sniper.deps.json
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\bin\Debug\net6.0\BTD7Sniper.dll
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\obj\Debug\net6.0\BTD7Sniper.dll
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\obj\Debug\net6.0\refint\BTD7Sniper.dll
+C:\Users\owner\Documents\BTD6 Mod Sources\AubreyMod - Copy\obj\Debug\net6.0\ref\BTD7Sniper.dll
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\bin\Debug\net6.0\BTD7Sniper.deps.json
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\bin\Debug\net6.0\BTD7Sniper.dll
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\bin\Debug\net6.0\PathsPlusPlus.dll
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\obj\Debug\net6.0\BTD7Sniper.csproj.AssemblyReference.cache
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\obj\Debug\net6.0\BTD7Sniper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\obj\Debug\net6.0\BTD7Sniper.AssemblyInfoInputs.cache
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\obj\Debug\net6.0\BTD7Sniper.AssemblyInfo.cs
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\obj\Debug\net6.0\BTD7Sniper.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\obj\Debug\net6.0\BTD7Sniper.csproj.CopyComplete
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\obj\Debug\net6.0\BTD7Sniper.dll
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\obj\Debug\net6.0\refint\BTD7Sniper.dll
+C:\Users\owner\Documents\BTD6 Mod Sources\BTD7Sniper\obj\Debug\net6.0\ref\BTD7Sniper.dll
