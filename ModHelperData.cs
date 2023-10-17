@@ -10,4 +10,6 @@ public static class ModHelperData
 
     public const string RepoOwner = "Porygon-Z208"; // TODO add your github username hero, also in the download url in README.md
     public const string RepoName = "BTD7-Sniper"; // TODO add your repo name here, also in the download url in README.md
+
+    public const string Dependencies = "doombubbles/paths-plus-plus";
 }
