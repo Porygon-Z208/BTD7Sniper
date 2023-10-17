@@ -9,7 +9,7 @@ public static class ModHelperData
     public const string Description = "Adds a 4th path and 6th tiers to the sniper, also changes the crosspathing rules to tier 6 in one path, and tier 2 in 2 others, except you can get a tier 3 in one path if you have a tier 6 on that tower. (Requires Paths++ and Ultimate Crosspathing)";
 
     public const string RepoOwner = "Porygon-Z208"; // TODO add your github username hero, also in the download url in README.md
-    public const string RepoName = "BTD7-Sniper"; // TODO add your repo name here, also in the download url in README.md
+    public const string RepoName = "BTD7Sniper"; // TODO add your repo name here, also in the download url in README.md
 
     public const string Dependencies = "doombubbles/paths-plus-plus";
 }
