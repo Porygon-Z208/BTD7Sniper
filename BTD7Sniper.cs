@@ -59,7 +59,7 @@ public class BTD7Sniper : BloonsTD6Mod
         MelonLogger.Msg(System.ConsoleColor.Magenta, "BTD7 Sniper loaded!");
     }
 
-    private static readonly ModSettingBool SpecialPathRestrictions = new(false)
+    private static readonly ModSettingBool SpecialPathRestrictions = new(true)
     {
         displayName = "Special Path Restrictions",
         description = "Whether or not to use the special path restrictions added by this mod for the sniper.",
