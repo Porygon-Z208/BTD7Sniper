@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\owner\\Documents\\BTD6 Mod Sources\\BTD7Sniper\\BTD7Sniper.csproj",
+      "projectUniqueName": "C:\\Users\\owner\\Documents\\GitHub\\BTD7-Sniper\\BTD7Sniper.csproj",
       "projectName": "BTD7Sniper",
-      "projectPath": "C:\\Users\\owner\\Documents\\BTD6 Mod Sources\\BTD7Sniper\\BTD7Sniper.csproj",
+      "projectPath": "C:\\Users\\owner\\Documents\\GitHub\\BTD7-Sniper\\BTD7Sniper.csproj",
       "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\owner\\Documents\\BTD6 Mod Sources\\BTD7Sniper\\obj\\",
+      "outputPath": "C:\\Users\\owner\\Documents\\GitHub\\BTD7-Sniper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
